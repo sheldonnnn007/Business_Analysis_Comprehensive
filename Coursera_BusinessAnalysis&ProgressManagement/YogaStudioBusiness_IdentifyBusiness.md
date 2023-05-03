@@ -1,6 +1,4 @@
-## Identify business_CaseStudy
-
-# Yoga Studio Business 
+## Yoga Studio Business 
 
 ## 1. Overview:
 
@@ -42,17 +40,29 @@ And some yoga classes be provided along in the gym. And other fitness centres.
 Indirect competition: 
 Other wellness services and activities such as massage, outdoor recreational activities.
 
-## Business needs
+## 6. Business needs
 
 - A suitable location with adequate space
 - Several perfessional trainers and instructors
 - Enough equipment
 - License
 
-## Yoga studio process steps
+## 7.Yoga studio process steps
 
-1) The potential clients is provided a Yoga trial class when they first come
-2) Studio will record the information from potential clients
-3) People who decide to join the membership pay for different plans with different number of classes
-4)  Members can sechedual all types of classed based on their preferences coz they be charged by number of classes
-5) Studio workers will contact people who experienced  before but end with nothing to have a check.
+1) A studio member reserves a yoga class with a personal yoga trainer
+2) Then client attend the class on time
+3) If clients do not have appointments, the free bar still available to them
+4) The potential clients is provided a Yoga trial class when they first come
+5) Studio will register the information from potential clients
+6) People who decide to join the membership pay for different plans with different number of classes
+7) Members can sechedual all types of classed based on their preferences coz they be charged by number of classes
+8) Studio workers will contact people who experienced  before but end with nothing to have a check.
+
+## 8. Stake holders for the business process **<u>Recruitment Process</u>**  
+
+- Yoga perfessionals/Candidates
+- HR
+- Management
+
+
+
