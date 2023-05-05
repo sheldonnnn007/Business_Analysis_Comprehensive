@@ -77,12 +77,12 @@ Look back at the original goal
 
 - The first step to approach any business analysis scenario is developing a clear **<u>business identity</u>**
 - Identifying business problems is the core of business analysis.
-- Basic business needs are often based on
+- Basic business needs are often based on **daily business activities**
 - Any business must have one or more business processes
 - Business process is a set of interrelated tasks that achieve a certain business goal 
 - A business process flowchart starts and ends with a Terminator
 - Swimlanes: To specify the entities responsible for each part of the process
-- What is the first step in analyzing a business process:
+- What is the first step in analyzing a business process:**determine the process that you are going to analyze**
 
 
 
